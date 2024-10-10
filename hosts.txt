@@ -35,3 +35,4 @@
 0.0.0.0 ufouxbwn.com
 0.0.0.0 adpod.in
 0.0.0.0 clarity.ms
+0.0.0.0 vkusnoe-kino.ru
