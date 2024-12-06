@@ -37,3 +37,8 @@
 0.0.0.0 clarity.ms
 0.0.0.0 vkusnoe-kino.ru
 0.0.0.0 wallhaven.cc
+0.0.0.0 cdn7.ufouxbwn.com
+0.0.0.0 clarity.ms
+0.0.0.0 srv.voidnetwork.cloud
+0.0.0.0 vast.ufouxbwn.com
+0.0.0.0 serv01001.xyz
